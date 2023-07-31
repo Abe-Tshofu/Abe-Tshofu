@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abe-Tshofu.
-- 👀 I’m interested in IoT, Systems Development and engineering.
+- 👀 I’m interested in IoT, AI, Systems Development and engineering.
 - 🌱 I’m currently learning Software Engineering at ALX.
 - 💞️ I’m looking to collaborate on any project that will help me grow.
 - 📫 How to reach me abeetshofu@gmail.com
